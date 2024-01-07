@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T20:06:11 IST" name="Suite" finished-at="2024-01-06T20:06:11 IST" duration-ms="277">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T20:06:11 IST" name="Test" finished-at="2024-01-06T20:06:11 IST" duration-ms="277">
+      <class name="Second_Script.LoginPage">
+        <test-method signature="Password()[pri:0, instance:Second_Script.LoginPage@53045c6c]" started-at="2024-01-06T20:06:11 IST" name="Password" finished-at="2024-01-06T20:06:11 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method signature="ResetPassword()[pri:0, instance:Second_Script.LoginPage@53045c6c]" started-at="2024-01-06T20:06:11 IST" name="ResetPassword" finished-at="2024-01-06T20:06:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetPassword -->
+        <test-method signature="Username()[pri:0, instance:Second_Script.LoginPage@53045c6c]" started-at="2024-01-06T20:06:11 IST" name="Username" finished-at="2024-01-06T20:06:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Username -->
+      </class> <!-- Second_Script.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-01-06T20:06:11 IST" name="Suite (0)" finished-at="2024-01-06T20:06:11 IST" duration-ms="20">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T20:06:11 IST" name="Test" finished-at="2024-01-06T20:06:11 IST" duration-ms="20">
+      <class name="Third_Script.HomePage">
+        <test-method signature="Electronics()[pri:0, instance:Third_Script.HomePage@303cf2ba]" started-at="2024-01-06T20:06:11 IST" name="Electronics" finished-at="2024-01-06T20:06:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Electronics -->
+        <test-method signature="ProductImage()[pri:0, instance:Third_Script.HomePage@303cf2ba]" started-at="2024-01-06T20:06:11 IST" name="ProductImage" finished-at="2024-01-06T20:06:11 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductImage -->
+        <test-method signature="SearchBar()[pri:0, instance:Third_Script.HomePage@303cf2ba]" started-at="2024-01-06T20:06:11 IST" name="SearchBar" finished-at="2024-01-06T20:06:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBar -->
+      </class> <!-- Third_Script.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2024-01-06T20:06:11 IST" name="Master Suite" finished-at="2024-01-06T20:06:11 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+</testng-results>
